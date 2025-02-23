@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sankalp Tiwari</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on [ReelsPro][(https://reelspro-phi.vercel.app/)]
+- 🔭 I’m currently working on [ReelsPro](https://reelspro-phi.vercel.app/)
 
 - 🌱 I’m currently learning **Nextjs , TypeScript**
 
