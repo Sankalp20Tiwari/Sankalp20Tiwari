@@ -80,7 +80,6 @@
 
 ---
 
-This version fixes the missing images. Let me know if you need any more tweaks! 🚀🔥
 
 
 
