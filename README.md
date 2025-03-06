@@ -44,8 +44,10 @@
     <td align="center"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQHKPJgeFlB8Tw/company-logo_200_200/company-logo_200_200/0/1719255648138/arcjet_logo?e=2147483647&v=beta&t=ks2wTbRXTk0t9Fj-2KOkN5qw6FezoiAILZDz0jpGxBY" alt="Arcjet" width="50"/><br>Arcjet</td>
   </tr>
   <tr>
-     <td align="center"><img src="https://inngest.com/favicon.ico" alt="Inngest" width="50"/><br>Inngest</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width= "50"/><br>express</td>
+    <td align="center"><img src="https://inngest.com/favicon.ico" alt="Inngest" width="50"/><br>Inngest</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"/><br>Git</td>
+    <td align="center"><img src="https://miro.medium.com/v2/resize:fit:1024/1*xDi2csEAWxu95IEkaNdFUQ.png" width= "50"/><br>React Native</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50"/><br>Linux</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width= "50"/><br>Vercel</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width= "50"/><br>VS Code</td>
