@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sankalp20tiwari@gmail.com**
 
-- 📄 Know about my experiences [Resume_SankalpTiwari](https://drive.google.com/file/d/1hEy6QVJaj1bOeNT0m-qScR3KrEbJuPOJ/view?usp=drive_link)
+- 📄 Know about my experiences [Resume_SankalpTiwari](https://drive.google.com/file/d/1nNaNDBDnITjWm5EWdQk3GQVFogVYKiS-/view?usp=sharing)
 
 ---
 
@@ -40,17 +40,20 @@
      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50"/><br>Docker</td>
      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50"/><br>Node.js</td>
      <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50"/><br>Postman</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" /><br>Appwrite</td>
     <td align="center"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQHKPJgeFlB8Tw/company-logo_200_200/company-logo_200_200/0/1719255648138/arcjet_logo?e=2147483647&v=beta&t=ks2wTbRXTk0t9Fj-2KOkN5qw6FezoiAILZDz0jpGxBY" alt="Arcjet" width="50"/><br>Arcjet</td>
+     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt= "express" width= "50"/><br>express</td>
+     <td align="center"><img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" alt="three.js" width= "50"/><br>Three.js</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width= "50"/><br>express</td>
     <td align="center"><img src="https://inngest.com/favicon.ico" alt="Inngest" width="50"/><br>Inngest</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"/><br>Git</td>
-    <td align="center"><img src="https://miro.medium.com/v2/resize:fit:1024/1*xDi2csEAWxu95IEkaNdFUQ.png" width= "50"/><br>React Native</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React Native" width= "50"/><br>React Native</td>
+    <td align="center"><img src="https://images.icon-icons.com/2389/PNG/512/expo_logo_icon_145293.png" alt= "Expo" width= "50"/><br>Expo</td>
+    <td align="center"><img src="https://imgix.cosmicjs.com/9d8bc340-e63d-11ee-b074-b5c8fe3ef189-clerk.webp?w=200&h=200&fit=crop&auto=format,compression" alt="Clerk" width= "50"/><br>Clerk</td>
+    <td align="center"><img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth" width= "50"/><br>NextAuth.js</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50"/><br>Linux</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width= "50"/><br>Vercel</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width= "50"/><br>VS Code</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width= "50"/><br>Vercel</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt= "VS Code"  width= "50"/><br>VS Code</td>
   </tr>
     
 </table>
@@ -61,6 +64,8 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50"/><br>MongoDB</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50"/><br>MySQL</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="50"/><br>Supabase</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" /><br>Appwrite</td>
   </tr>
 </table>
 
