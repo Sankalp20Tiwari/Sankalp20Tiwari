@@ -4,15 +4,15 @@
 <h3 align="center">Innovative Full-Stack Developer | Crafting Scalable & Engaging Web Solutions</h3>
 
 
-- 🔭 I’m currently working on [ReelsPro](https://reelspro-phi.vercel.app/)
+- 🔭 I’m currently working on [Desyn](https://desyn.vercel.app/)
 
-- 🌱 I’m currently learning **Next.js, TypeScript**
+- 🌱 I’m currently learning **Next.js, django**
 
 - 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **sankalp20tiwari@gmail.com**
 
-- 📄 Know about my experiences [Resume_SankalpTiwari](https://drive.google.com/file/d/1nNaNDBDnITjWm5EWdQk3GQVFogVYKiS-/view?usp=sharing)
+- 📄 Know about my experiences [Resume_SankalpTiwari](https://drive.google.com/file/d/1-05_dynhP-o3FLXCUA-Uad0IbeIFr3Y7/view?usp=sharing)
 
 ---
 
@@ -21,11 +21,11 @@
 ### 🖥️ Languages  
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50"/><br>C</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50"/><br>C++</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/><br>JavaScript</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/><br>TypeScript</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/><br>Python</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50"/><br>C++</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50"/><br>C</td>
   </tr>
 </table>
 
@@ -37,6 +37,7 @@
     <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50"/><br>Tailwind</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50"/><br>Redux</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="50"/><br>Framer Motion</td>
+    <td align="center"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo.gif" alt="Framer Motion" width="50"/><br>GSAP</td>
      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50"/><br>Docker</td>
      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50"/><br>Node.js</td>
      <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50"/><br>Postman</td>
