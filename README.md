@@ -43,9 +43,9 @@
      <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50"/><br>Postman</td>
     <td align="center"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQHKPJgeFlB8Tw/company-logo_200_200/company-logo_200_200/0/1719255648138/arcjet_logo?e=2147483647&v=beta&t=ks2wTbRXTk0t9Fj-2KOkN5qw6FezoiAILZDz0jpGxBY" alt="Arcjet" width="50"/><br>Arcjet</td>
      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt= "express" width= "50"/><br>express</td>
-     <td align="center"><img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" alt="three.js" width= "50"/><br>Three.js</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" alt="three.js" width= "50"/><br>Three.js</td>
     <td align="center"><img src="https://inngest.com/favicon.ico" alt="Inngest" width="50"/><br>Inngest</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"/><br>Git</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React Native" width= "50"/><br>React Native</td>
